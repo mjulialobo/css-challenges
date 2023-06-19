@@ -7,7 +7,7 @@ Clone this project on your computer, navigate to the folder you want, just type 
 
 ## Challenge 01 - Layered Icon
 
-
+![challenge1](https://github.com/grupo-sbf/centauro-front/assets/65983895/14bb5f1a-0e3e-4c48-91d1-3a25cb1badd6)
 
 Skills:
 - Create layers using span tag;
