@@ -7,7 +7,7 @@ Clone this project on your computer, navigate to the folder you want, just type 
 
 ## Challenge 01 - Layered Icon
 
-![challenge1](https://github.com/grupo-sbf/centauro-front/assets/65983895/14bb5f1a-0e3e-4c48-91d1-3a25cb1badd6)
+![challenge1](https://github.com/mjulialobo/css-challenges/assets/65983895/018f1618-7d81-4072-a066-705ed8963f4b)
 
 Skills:
 - Create layers using span tag;
@@ -16,18 +16,16 @@ Skills:
 - 2D and 3D transform property;
 - Opacity / Transparency;
 
-
 ## Challenge 02 - Animated Loader
 
-
+![challenge02](https://github.com/mjulialobo/css-challenges/assets/65983895/f92f8d53-4bf2-4558-9a39-73bad4bde047)
 
 Skills:
 - Animations;
 
-
 ## Challenge 03 - Change font color when div change
 
-
+![challenge03](https://github.com/mjulialobo/css-challenges/assets/65983895/a65adf26-bb5b-49ba-85db-59918e5c319b)
 
 Skills:
 - Css Overflow;
