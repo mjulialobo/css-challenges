@@ -1,0 +1,39 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+ 
+}
+.center
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.ring
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 0 4px 0 #e00ccf;
+    animation: animate 1s linear infinite;
+}
+.text
+{
+    width: 300px;
+    height: 300px;
+    color: #e00ccf;
+    position: absolute;
+    text-align: center;
+    line-height: 300px;
+    font-size: 2em;
+}
+@keyframes animate
+{
+    100%
+    {
+        transform: rotate(360deg);
+    }
+}
