@@ -30,3 +30,27 @@ Skills:
 Skills:
 - Css Overflow;
 - Animations;
+
+## Challenge 04 - Hover effect
+
+![challenge04](https://github.com/mjulialobo/css-challenges/assets/65983895/01fc22ca-9b8b-4834-96c5-1f2d247c889b)
+
+Skills:
+- ::hover, ::before, ::after;
+- Transitions;
+
+## Challenge 05 - Pulse effect
+
+![challenge05](https://github.com/mjulialobo/css-challenges/assets/65983895/b71c7ee1-4a8e-457a-8c9d-d9370454913e)
+
+Skills:
+- Transformations;
+- Animations;
+
+## Challenge 06 - Lightning effect
+
+![challenge06](https://github.com/mjulialobo/css-challenges/assets/65983895/1edc3ebc-9cc0-49f1-9ed2-97af5f11a632)
+
+Skills:
+- nth-child();
+- Animations;
