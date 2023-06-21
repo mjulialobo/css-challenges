@@ -54,3 +54,27 @@ Skills:
 Skills:
 - nth-child();
 - Animations;
+
+## Challenge 07 - Animated preloader
+
+![challenge07](https://github.com/mjulialobo/css-challenges/assets/65983895/6932bef8-e33f-4f37-afbb-375f5191e5d4)
+
+Skills:
+- nth-child();
+- Animations;
+
+## Challenge 08 - Heart Beating
+
+![challenge08](https://github.com/mjulialobo/css-challenges/assets/65983895/f7b48e2f-8b1f-42cd-85ca-8c41c021ad77)
+
+Skills:
+- nth-child();
+- Animations;
+
+## Challenge 09 - Newton's Pendulum
+
+![challenge09](https://github.com/mjulialobo/css-challenges/assets/65983895/15bb3318-b669-4169-963e-1700f4833517)
+
+Skills:
+- nth-child();
+- Animations;
