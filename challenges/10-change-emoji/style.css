@@ -1,0 +1,38 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(107, 30, 201);
+  background: radial-gradient(
+    circle,
+    rgba(107, 30, 201, 1) 0%,
+    rgba(6, 11, 98, 1) 100%
+  );
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-style: italic;
+}
+
+span::before {
+  content: "";
+  animation: word-swith 3s infinite;
+}
+
+@keyframes word-swith {
+  0% {
+    content: "👽";
+  }
+
+  50% {
+    content: "🛸";
+  }
+
+  100% {
+    content: "🌌";
+  }
+}

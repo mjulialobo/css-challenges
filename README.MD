@@ -80,3 +80,31 @@ Skills:
 - first-child, last-child;
 - Animations;
 - ::before, ::after;
+
+## Challenge 10 - Change Emoji
+
+![challenge10](https://github.com/mjulialobo/css-challenges/assets/65983895/ebb4ca11-ca9c-4154-954d-706f817e1805)
+
+Skills:
+
+- Animations;
+- ::before
+- Gradient background;
+
+## Challenge 11 - Hover Effect
+
+![challenge11](https://github.com/mjulialobo/css-challenges/assets/65983895/f8157c18-9a49-4091-999d-552962be3ffd)
+
+Skills:
+- z-index;
+- Animations;
+- ::before, ::hover
+- transitions;
+
+## Challenge 12 - Fill hover
+
+![challenge12](https://github.com/mjulialobo/css-challenges/assets/65983895/aaa2914f-8a64-42f8-91a3-a19f23ecc127)
+
+Skills:
+- transform, transition;
+- ::before, ::hover;

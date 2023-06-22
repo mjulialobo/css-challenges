@@ -1,56 +1,53 @@
-* 
-{
-    margin: 0;
+* {
+  margin: 0;
 }
 
-body 
-{
-    background: #e0ecc4;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+body {
+  background: #e0ecc4;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.btn 
-{
-    width: 200px;
-    height: 60px;
-    background: none;
-    border: 4px solid;
-    color: rgb(134, 25, 25);
-    font-weight: 700;
-    text-transform: uppercase;
-    cursor: pointer;
-    font-size: 16px;
-    position: relative;
+.btn {
+  width: 200px;
+  height: 60px;
+  background: none;
+  border: 4px solid;
+  color: rgb(134, 25, 25);
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 16px;
+  position: relative;
 }
 
-.btn::before, .btn::after
-{
-    content: "";
-    position: absolute;
-    width: 16px;
-    height: 4px;
-    background: #e0ecc4;
-    transform: skewX(50deg);
-    transition: .4s linear;
+.btn::before,
+.btn::after {
+  content: "";
+  position: absolute;
+  width: 16px;
+  height: 4px;
+  background: #e0ecc4;
+  transform: skewX(50deg);
+  transition: 0.4s linear;
 }
-.btn::before
-{
-    top: -4px;
-    left: 10%;
+
+.btn::before {
+  top: -4px;
+  left: 10%;
 }
-.btn::after
-{
-    bottom: -4px;
-    right: 10%;
+
+.btn::after {
+  bottom: -4px;
+  right: 10%;
 }
-.btn:hover::before
-{
-    left: 80%;
+
+.btn:hover::before {
+  left: 80%;
 }
-.btn:hover::after
-{
-    right: 80%;
+
+.btn:hover::after {
+  right: 80%;
 }
