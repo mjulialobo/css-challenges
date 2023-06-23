@@ -108,3 +108,25 @@ Skills:
 Skills:
 - transform, transition;
 - ::before, ::hover;
+
+## Challenge 13 - Moving text effect
+
+![challenge13](https://github.com/mjulialobo/css-challenges/assets/65983895/98d081c7-6544-48de-b69e-2308d75ea021)
+
+Skills:
+- animations;
+- nth-child()
+
+## Challenge 14 - Animated text
+
+![challenge14](https://github.com/mjulialobo/css-challenges/assets/65983895/40e45364-bc50-4ed7-8e1a-7cdf85bae7bf)
+
+Skills:
+- background clip;
+- animations;
+## Challenge 15 - Floating text
+
+![challenge15](https://github.com/mjulialobo/css-challenges/assets/65983895/1562878c-fd1a-432b-95f4-294e2575ec7e)
+
+Skills:
+- transform, animation;
