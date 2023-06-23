@@ -143,3 +143,11 @@ Skills:
 
 Skills:
 - animations
+
+## Challenge 18 - Avengers blip
+![challenge18](https://github.com/mjulialobo/css-challenges/assets/65983895/7a522793-49f5-4223-8eb7-2f7848c17aff)
+
+Skills:
+- :hover;
+- nth-child();
+- transform
