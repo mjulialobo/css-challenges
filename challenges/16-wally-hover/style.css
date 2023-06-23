@@ -1,0 +1,37 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+a {
+  text-decoration: none;
+  background-color: white;
+  color: white;
+  border: 3px solid rgb(168, 53, 53);
+  padding: 10px 20px;
+  position: relative;
+  transition: all 1s;
+  overflow: hidden;
+}
+
+a:before {
+  content: "";
+  background-image: url("https://static.wikia.nocookie.net/fictionalcrossover/images/4/48/Wally.jpg/revision/latest?cb=20200304132625");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: rgb(168, 53, 53);
+  background-position: center;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  transform: translateY(-100%);
+  transition: all 0.5s;
+}
+
+a:hover:before {
+  transform: translateY(0);
+}

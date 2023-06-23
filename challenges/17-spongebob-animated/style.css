@@ -1,0 +1,44 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://i.pinimg.com/564x/de/c5/9b/dec59bd7fd121f775b157078ec7979d1.jpg");
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  perspective: 300px;
+}
+
+.patrick {
+  width: 150px;
+  height: 150px;
+  background-image: url("https://media.tenor.com/OQrgJodFwt8AAAAC/spongebob-squarepants-patrick-star.gif");
+  background-size: cover;
+  border-radius: 12px;
+  animation: loading 5s linear infinite;
+  border: solid 1px blue;
+}
+
+@keyframes loading {
+  0% {
+    transform: rotateX(0deg) rotateY(0deg);
+  }
+
+  25% {
+    transform: rotateX(0deg) rotateY(180deg);
+  }
+
+
+  50% {
+    transform: rotateX(0deg) rotateY(0deg);
+  }
+
+  75% {
+    transform: rotateX(180deg) rotateY(180deg);
+  }
+
+  100% {
+    transform: rotateX(0deg) rotateY(0deg);
+  }
+}

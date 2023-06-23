@@ -130,3 +130,16 @@ Skills:
 
 Skills:
 - transform, animation;
+
+## Challenge 16 - Wally hover
+![challenge16](https://github.com/mjulialobo/css-challenges/assets/65983895/f4c83489-e1d4-40cb-84c0-ebf0889e3eb0)
+
+Skills:
+- transform, transition;
+- ::before, ::hover;
+
+## Challenge 17 - Spongebob spin
+![challenge17](https://github.com/mjulialobo/css-challenges/assets/65983895/b51ca065-6c61-4213-9191-87cbf8686741)
+
+Skills:
+- animations
