@@ -88,7 +88,7 @@ Skills:
 Skills:
 
 - Animations;
-- ::before
+- ::before;
 - Gradient background;
 
 ## Challenge 11 - Hover Effect
@@ -115,7 +115,7 @@ Skills:
 
 Skills:
 - animations;
-- nth-child()
+- nth-child();
 
 ## Challenge 14 - Animated text
 
@@ -142,7 +142,7 @@ Skills:
 ![challenge17](https://github.com/mjulialobo/css-challenges/assets/65983895/b51ca065-6c61-4213-9191-87cbf8686741)
 
 Skills:
-- animations
+- animations;
 
 ## Challenge 18 - Avengers blip
 ![challenge18](https://github.com/mjulialobo/css-challenges/assets/65983895/7a522793-49f5-4223-8eb7-2f7848c17aff)
@@ -150,4 +150,26 @@ Skills:
 Skills:
 - :hover;
 - nth-child();
-- transform
+- transform;
+
+## Challenge 19 - Particles
+![challenge19](https://github.com/mjulialobo/css-challenges/assets/65983895/6d683f87-87e4-49e8-bcc4-c564dbc5d1ed)
+
+Skills:
+- Css variables;
+- nth-child();
+- transform;
+
+## Challenge 20 - Hover Effect
+![challenge20](https://github.com/mjulialobo/css-challenges/assets/65983895/8c980d97-c536-4cde-9a77-e1c7799c1458)
+
+Skills:
+- ::hover, ::before;
+- transform, transition;
+
+## Challenge 21 - Mario Jump
+![challenge21](https://github.com/mjulialobo/css-challenges/assets/65983895/04bb4b3e-7d5d-44bb-835a-a2a68bbe9510)
+
+Skills:
+- nth-child();
+- animations;
