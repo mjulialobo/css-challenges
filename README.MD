@@ -194,3 +194,24 @@ Skills:
 Skills:
 - nth-child();
 - animations;
+
+## Challenge 25 - Animated Checkbox
+![challenge25](https://github.com/mjulialobo/css-challenges/assets/65983895/9c07c313-fd89-49a2-8466-6de512da96cf)
+
+Skills:
+- ::before;
+- animations;
+
+## Challenge 26 - Mario boss fight
+![challenge26](https://github.com/mjulialobo/css-challenges/assets/65983895/56d1e61f-ec37-429e-98d0-1255953319c0)
+
+Skills:
+- ::before, ::after;
+- animations;
+
+## Challenge 27 - Hypno effect
+![challenge27](https://github.com/mjulialobo/css-challenges/assets/65983895/bf9b5c3e-b025-4909-a8fd-17cd6f600944)
+
+Skills:
+- ::before, ::after;
+- animations;
