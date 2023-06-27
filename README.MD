@@ -173,3 +173,24 @@ Skills:
 Skills:
 - nth-child();
 - animations;
+
+## Challenge 22 - Icon effect
+![challenge22](https://github.com/mjulialobo/css-challenges/assets/65983895/84e36143-d85c-4b54-9a35-6cd5fbfc0fb0)
+
+Skills:
+- ::before, ::after, ::hover;
+- animations;
+
+## Challenge 23 - Call attention
+![challenge23](https://github.com/mjulialobo/css-challenges/assets/65983895/f6e2ed69-fefe-49c1-88df-ca364a854da8)
+
+Skills:
+- ::hover;
+- transform;
+
+## Challenge 24 - Powerpuff Girls
+![challenge24](https://github.com/mjulialobo/css-challenges/assets/65983895/7009b33d-1f6b-44a0-9f00-724f27e2710b)
+
+Skills:
+- nth-child();
+- animations;
