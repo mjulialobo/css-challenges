@@ -215,3 +215,23 @@ Skills:
 Skills:
 - ::before, ::after;
 - animations;
+
+## Challenge 28 - Changing background
+![challenge28](https://github.com/mjulialobo/css-challenges/assets/65983895/5ac90d9b-4b1b-42c2-8d74-b6fe4fc2aada)
+
+Skills:
+- animations;
+
+## Challenge 29 - Firework
+![challenge29](https://github.com/mjulialobo/css-challenges/assets/65983895/2f07726d-fcc8-41af-8dc7-16b3581ca2db)
+
+Skills:
+- nth-child();
+- ::before, ::after;
+- animations;
+
+## Challenge 30 - Nevermind
+![challenge30](https://github.com/mjulialobo/css-challenges/assets/65983895/4c822d17-87c9-4856-a52f-d359980785ce)
+
+Skills:
+- transform;

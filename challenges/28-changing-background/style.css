@@ -1,0 +1,34 @@
+body {
+  height: 100vh;
+  animation: bgchange 20s infinite;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+@keyframes bgchange {
+  0% {
+    background-image: url("https://magazinefeminina.com.br/wp-content/uploads/2023/03/45_papel-de-parece-para-celular-dragon-ball-super-341x700.jpg");
+  }
+
+  20% {
+    background-image: url("https://wallpapercave.com/wp/wp5487694.jpg");
+  }
+
+  40% {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/307/894/desktop-wallpaper-12-ideas-de-mr-satan-en-2021-mr-satan-thumbnail.jpg");
+  }
+
+  60% {
+    background-image: url("https://wallpapercave.com/wp/wp9469372.png");
+  }
+
+  80% {
+    background-image: url("https://w0.peakpx.com/wallpaper/118/763/HD-wallpaper-kid-buu-db-legends-dbgt-dbz-majin-buu.jpg");
+  }
+
+  100% {
+    background-image: url("https://i.pinimg.com/736x/cd/24/60/cd24601d493fd7394f801cacd7c9b9ee.jpg");
+  }
+}
